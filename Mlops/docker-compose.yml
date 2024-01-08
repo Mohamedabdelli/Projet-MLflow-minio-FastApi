@@ -1,13 +1,9 @@
 
 # ================================================================================
 
-
 version: '3'
 
-
-
 services:
-
 
   # This container runs the postgresql database for mlflow.
   postgres-mlflow:
