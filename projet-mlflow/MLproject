@@ -1,0 +1,18 @@
+name: model
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      remote_server_uri: {type: str, default: http://localhost:5000}
+      experiment_name: {type: str, default: test-1}
+      run_name: {type: str, default: default}
+      data_url: {type: str, default: https://minio.lab.sspcloud.fr/mabdelli/mlflow/exercice1.csv}
+      max_features: {type: int, default: 150}
+      max_depth: {type: int, default: 5}
+    command: "python ./train_model/train.py {remote_server_uri} {experiment_name} {run_name} {data_url} {max_features} {max_depth}"
+
+
+
+
