@@ -84,7 +84,7 @@ MLFLOW_TRACKING_URI="http://your-instance-ip:5000"
 ```
 Replace `your-instance-ip` with the IP address of the instance where MLflow and Minio are installed.
 
-FastAPI points to the model in production at http://your-instance-ip:5800.
+FastAPI points to the model in production at http://your-instance-ip:5400.
 
 ## Learn More
 For a more detailed description of each step and advanced features, consult the PDF document. [Guide_MLOps.pdf](lien-vers-le-pdf).
