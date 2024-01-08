@@ -87,4 +87,4 @@ Replace `your-instance-ip` with the IP address of the instance where MLflow and 
 FastAPI points to the model in production at http://your-instance-ip:5800.
 
 ## Learn More
-For a more detailed description of each step and advanced features, consult the PDF document. [Guide_MLOps.pdf](lien-vers-le-pdf).
+For a more detailed description of each step and advanced features, consult the PDF document. [Guide_MLOps.pdf](https://github.com/Mohamedabdelli/Projet-MLflow-minio-FastApi/blob/main/doc/Guide_MLOps.pdf).
