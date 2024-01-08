@@ -5,11 +5,6 @@ This comprehensive architecture creates a smooth and automated process for deplo
 
 ![architecture](./Images/archi.png)
 
-## Guide d'utilisation du Projet MLOps
-
-This guide details the steps to configure, train, and deploy models with the MLOps project. Check the video demo below for a visual presentation of the main steps.
-
-[![Démo Vidéo](lien-vers-miniature-de-la-video)](lien-vers-la-video)
 
 
 
