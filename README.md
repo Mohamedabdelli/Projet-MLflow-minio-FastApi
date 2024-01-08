@@ -57,7 +57,7 @@ Access MLflow at your instance's IP address on port 5000 and Minio on port 9000.
 
 ## Entraînement et déploiement des modèles
 
-Run the `export.sh` script to train the project in the MLflow-projet repository. The model will be trained locally, then uploaded to MLflow and stored in Minio. You can upload multiple models by modifying hyperparameters. For more details on the structure of an MLflow project, see [This link](https://mlflow.org/docs/2.4.2/projects.html).
+Run the `export.sh` script to train the project in the [MLflow-projet](https://github.com/Mohamedabdelli/projet-mlflow.git). The model will be trained locally, then uploaded to MLflow and stored in Minio. You can upload multiple models by modifying hyperparameters. For more details on the structure of an MLflow project, see [This link](https://mlflow.org/docs/2.4.2/projects.html).
 
 
 Command:
